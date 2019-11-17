@@ -1,0 +1,38 @@
+body{
+    background-image: url("../../assets/images/backgroundImage.jpeg");
+}
+
+#main-container{
+    margin-top: 10%;
+    background-color: #F0F0F0;
+    border-radius: 5px;
+    height: 500px;
+}
+
+h1{
+    padding-top: 2%;
+}
+
+#second-container{
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 3%;
+    height: 350px;
+}
+
+h3{
+    padding-top: 1%;
+}
+
+#password-container{
+    border: dotted lightgray 2px;
+    height: 150px;
+}
+
+#password-header{
+    color: lightgray;
+}
+
+#password-text{
+    font-size: 50px;
+}
