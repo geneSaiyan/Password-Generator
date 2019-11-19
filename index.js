@@ -1,6 +1,7 @@
 // Generate Password button functionality 
 document.getElementById("btnGenerate").addEventListener("click", function () {
 
+    //Setting password length variable prompt
     var pwdLength = prompt("Choose password length (must be between 8 and 128 characters)");
 
     var lowerChar = 'abcdefghijklmnopqrstuvwxyz';
